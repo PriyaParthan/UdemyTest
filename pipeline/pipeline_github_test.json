@@ -15,7 +15,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"url": "https://stgaccountudemy.blob.core.windows.net/container/Log.csv",
+					"url": "https://stgaccountudemy.blob.core.windows.net/container/Log_test.csv",
 					"method": "GET"
 				}
 			}
